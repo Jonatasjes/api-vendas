@@ -10,3 +10,5 @@
 
  - Nodejs
  - Express
+ - Token JWT
+ - TypeORM
